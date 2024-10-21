@@ -1,0 +1,9 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.boite{
+    padding-right: 10em;
+    padding-left: 10em;
+}
